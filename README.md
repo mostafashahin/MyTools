@@ -1,2 +1,1 @@
-# MyTools
-Useful Scripts
+# TamuTools
